@@ -12,7 +12,7 @@ Paradigmas:
  
  (Apague essa seção)
 
-# NomedoProjeto
+# NomeDoProjeto
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
