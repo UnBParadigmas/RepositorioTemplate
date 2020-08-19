@@ -14,8 +14,9 @@ Paradigmas:
 
 # NomeDoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Disciplina**: XXXXXXXXXX<br>
+**Nro do Grupo**: XX<br>
+**Paradigma**: XXXXXXXXXX<br>
 
 ## Alunos
 |Matrícula | Aluno |
