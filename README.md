@@ -1,5 +1,5 @@
 # RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
+Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
 **!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(Paradigma)_(NomeDoProjeto). !!** 
 
 Paradigmas:
@@ -14,7 +14,7 @@ Paradigmas:
 
 # NomeDoProjeto
 
-**Disciplina**: XXXXXXXXXX<br>
+**Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
 **Nro do Grupo**: XX<br>
 **Paradigma**: XXXXXXXXXX<br>
 
